@@ -1,0 +1,12 @@
+C:\Users\신지훈\source\repos\System Memory\System Memory\bin\Debug\System Memory.exe.config
+C:\Users\신지훈\source\repos\System Memory\System Memory\bin\Debug\System Memory.exe
+C:\Users\신지훈\source\repos\System Memory\System Memory\bin\Debug\System Memory.pdb
+C:\Users\신지훈\source\repos\System Memory\System Memory\bin\Debug\System Memory.xml
+C:\Users\신지훈\source\repos\System Memory\System Memory\obj\Debug\System Memory.vbprojAssemblyReference.cache
+C:\Users\신지훈\source\repos\System Memory\System Memory\obj\Debug\System_Memory.Form1.resources
+C:\Users\신지훈\source\repos\System Memory\System Memory\obj\Debug\System_Memory.Resources.resources
+C:\Users\신지훈\source\repos\System Memory\System Memory\obj\Debug\System Memory.vbproj.GenerateResource.cache
+C:\Users\신지훈\source\repos\System Memory\System Memory\obj\Debug\System Memory.vbproj.CoreCompileInputs.cache
+C:\Users\신지훈\source\repos\System Memory\System Memory\obj\Debug\System Memory.exe
+C:\Users\신지훈\source\repos\System Memory\System Memory\obj\Debug\System Memory.xml
+C:\Users\신지훈\source\repos\System Memory\System Memory\obj\Debug\System Memory.pdb
