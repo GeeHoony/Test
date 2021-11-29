@@ -1,0 +1,11 @@
+C:\Users\신지훈\source\repos\TrayIcon\TrayIcon\bin\Debug\TrayIcon.exe.config
+C:\Users\신지훈\source\repos\TrayIcon\TrayIcon\bin\Debug\TrayIcon.exe
+C:\Users\신지훈\source\repos\TrayIcon\TrayIcon\bin\Debug\TrayIcon.pdb
+C:\Users\신지훈\source\repos\TrayIcon\TrayIcon\bin\Debug\TrayIcon.xml
+C:\Users\신지훈\source\repos\TrayIcon\TrayIcon\obj\Debug\TrayIcon.Form1.resources
+C:\Users\신지훈\source\repos\TrayIcon\TrayIcon\obj\Debug\TrayIcon.Resources.resources
+C:\Users\신지훈\source\repos\TrayIcon\TrayIcon\obj\Debug\TrayIcon.vbproj.GenerateResource.cache
+C:\Users\신지훈\source\repos\TrayIcon\TrayIcon\obj\Debug\TrayIcon.vbproj.CoreCompileInputs.cache
+C:\Users\신지훈\source\repos\TrayIcon\TrayIcon\obj\Debug\TrayIcon.exe
+C:\Users\신지훈\source\repos\TrayIcon\TrayIcon\obj\Debug\TrayIcon.xml
+C:\Users\신지훈\source\repos\TrayIcon\TrayIcon\obj\Debug\TrayIcon.pdb
