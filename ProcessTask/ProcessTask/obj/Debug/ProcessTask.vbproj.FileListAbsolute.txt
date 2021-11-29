@@ -1,0 +1,12 @@
+C:\Users\신지훈\source\repos\ProcessTask\ProcessTask\bin\Debug\ProcessTask.exe.config
+C:\Users\신지훈\source\repos\ProcessTask\ProcessTask\bin\Debug\ProcessTask.exe
+C:\Users\신지훈\source\repos\ProcessTask\ProcessTask\bin\Debug\ProcessTask.pdb
+C:\Users\신지훈\source\repos\ProcessTask\ProcessTask\bin\Debug\ProcessTask.xml
+C:\Users\신지훈\source\repos\ProcessTask\ProcessTask\obj\Debug\ProcessTask.vbprojAssemblyReference.cache
+C:\Users\신지훈\source\repos\ProcessTask\ProcessTask\obj\Debug\ProcessTask.Form1.resources
+C:\Users\신지훈\source\repos\ProcessTask\ProcessTask\obj\Debug\ProcessTask.Resources.resources
+C:\Users\신지훈\source\repos\ProcessTask\ProcessTask\obj\Debug\ProcessTask.vbproj.GenerateResource.cache
+C:\Users\신지훈\source\repos\ProcessTask\ProcessTask\obj\Debug\ProcessTask.vbproj.CoreCompileInputs.cache
+C:\Users\신지훈\source\repos\ProcessTask\ProcessTask\obj\Debug\ProcessTask.exe
+C:\Users\신지훈\source\repos\ProcessTask\ProcessTask\obj\Debug\ProcessTask.xml
+C:\Users\신지훈\source\repos\ProcessTask\ProcessTask\obj\Debug\ProcessTask.pdb
