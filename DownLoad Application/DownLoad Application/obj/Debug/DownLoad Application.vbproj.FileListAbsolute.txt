@@ -1,0 +1,12 @@
+C:\Users\신지훈\source\repos\DownLoad Application\DownLoad Application\obj\Debug\DownLoad Application.vbprojAssemblyReference.cache
+C:\Users\신지훈\source\repos\DownLoad Application\DownLoad Application\obj\Debug\DownLoad_Application.Form1.resources
+C:\Users\신지훈\source\repos\DownLoad Application\DownLoad Application\obj\Debug\DownLoad_Application.Resources.resources
+C:\Users\신지훈\source\repos\DownLoad Application\DownLoad Application\obj\Debug\DownLoad Application.vbproj.GenerateResource.cache
+C:\Users\신지훈\source\repos\DownLoad Application\DownLoad Application\obj\Debug\DownLoad Application.vbproj.CoreCompileInputs.cache
+C:\Users\신지훈\source\repos\DownLoad Application\DownLoad Application\bin\Debug\DownLoad Application.exe.config
+C:\Users\신지훈\source\repos\DownLoad Application\DownLoad Application\bin\Debug\DownLoad Application.exe
+C:\Users\신지훈\source\repos\DownLoad Application\DownLoad Application\bin\Debug\DownLoad Application.pdb
+C:\Users\신지훈\source\repos\DownLoad Application\DownLoad Application\bin\Debug\DownLoad Application.xml
+C:\Users\신지훈\source\repos\DownLoad Application\DownLoad Application\obj\Debug\DownLoad Application.exe
+C:\Users\신지훈\source\repos\DownLoad Application\DownLoad Application\obj\Debug\DownLoad Application.xml
+C:\Users\신지훈\source\repos\DownLoad Application\DownLoad Application\obj\Debug\DownLoad Application.pdb
