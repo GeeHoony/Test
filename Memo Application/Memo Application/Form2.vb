@@ -6,4 +6,8 @@
             Me.btnOK.Enabled = True
         End If
     End Sub
+
+    Private Sub btnCancle_Click(sender As Object, e As EventArgs) Handles btnCancle.Click
+        Me.Close()
+    End Sub
 End Class

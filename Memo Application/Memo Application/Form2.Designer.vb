@@ -27,9 +27,9 @@ Partial Class Form2
         Me.btnOK = New System.Windows.Forms.Button()
         Me.btnCancle = New System.Windows.Forms.Button()
         Me.groupBox = New System.Windows.Forms.GroupBox()
-        Me.chb = New System.Windows.Forms.CheckBox()
-        Me.rdb01 = New System.Windows.Forms.RadioButton()
         Me.rdb02 = New System.Windows.Forms.RadioButton()
+        Me.rdb01 = New System.Windows.Forms.RadioButton()
+        Me.chb = New System.Windows.Forms.CheckBox()
         Me.groupBox.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -78,15 +78,16 @@ Partial Class Form2
         Me.groupBox.TabStop = False
         Me.groupBox.Text = "방향"
         '
-        'chb
+        'rdb02
         '
-        Me.chb.AutoSize = True
-        Me.chb.Location = New System.Drawing.Point(26, 89)
-        Me.chb.Name = "chb"
-        Me.chb.Size = New System.Drawing.Size(106, 16)
-        Me.chb.TabIndex = 5
-        Me.chb.Text = "대/소문자 구분"
-        Me.chb.UseVisualStyleBackColor = True
+        Me.rdb02.AutoSize = True
+        Me.rdb02.Location = New System.Drawing.Point(96, 26)
+        Me.rdb02.Name = "rdb02"
+        Me.rdb02.Size = New System.Drawing.Size(59, 16)
+        Me.rdb02.TabIndex = 1
+        Me.rdb02.TabStop = True
+        Me.rdb02.Text = "아래쪽"
+        Me.rdb02.UseVisualStyleBackColor = True
         '
         'rdb01
         '
@@ -99,16 +100,15 @@ Partial Class Form2
         Me.rdb01.Text = "위쪽"
         Me.rdb01.UseVisualStyleBackColor = True
         '
-        'rdb02
+        'chb
         '
-        Me.rdb02.AutoSize = True
-        Me.rdb02.Location = New System.Drawing.Point(96, 26)
-        Me.rdb02.Name = "rdb02"
-        Me.rdb02.Size = New System.Drawing.Size(59, 16)
-        Me.rdb02.TabIndex = 1
-        Me.rdb02.TabStop = True
-        Me.rdb02.Text = "아래쪽"
-        Me.rdb02.UseVisualStyleBackColor = True
+        Me.chb.AutoSize = True
+        Me.chb.Location = New System.Drawing.Point(26, 89)
+        Me.chb.Name = "chb"
+        Me.chb.Size = New System.Drawing.Size(106, 16)
+        Me.chb.TabIndex = 5
+        Me.chb.Text = "대/소문자 구분"
+        Me.chb.UseVisualStyleBackColor = True
         '
         'Form2
         '

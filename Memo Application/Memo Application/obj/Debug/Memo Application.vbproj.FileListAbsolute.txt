@@ -1,0 +1,14 @@
+C:\Users\신지훈\source\repos\Memo Application\Memo Application\bin\Debug\Memo Application.exe.config
+C:\Users\신지훈\source\repos\Memo Application\Memo Application\bin\Debug\Memo Application.exe
+C:\Users\신지훈\source\repos\Memo Application\Memo Application\bin\Debug\Memo Application.pdb
+C:\Users\신지훈\source\repos\Memo Application\Memo Application\bin\Debug\Memo Application.xml
+C:\Users\신지훈\source\repos\Memo Application\Memo Application\obj\Debug\Memo Application.vbprojAssemblyReference.cache
+C:\Users\신지훈\source\repos\Memo Application\Memo Application\obj\Debug\Memo_Application.Form1.resources
+C:\Users\신지훈\source\repos\Memo Application\Memo Application\obj\Debug\Memo_Application.Form2.resources
+C:\Users\신지훈\source\repos\Memo Application\Memo Application\obj\Debug\Memo_Application.Form3.resources
+C:\Users\신지훈\source\repos\Memo Application\Memo Application\obj\Debug\Memo_Application.Resources.resources
+C:\Users\신지훈\source\repos\Memo Application\Memo Application\obj\Debug\Memo Application.vbproj.GenerateResource.cache
+C:\Users\신지훈\source\repos\Memo Application\Memo Application\obj\Debug\Memo Application.vbproj.CoreCompileInputs.cache
+C:\Users\신지훈\source\repos\Memo Application\Memo Application\obj\Debug\Memo Application.exe
+C:\Users\신지훈\source\repos\Memo Application\Memo Application\obj\Debug\Memo Application.xml
+C:\Users\신지훈\source\repos\Memo Application\Memo Application\obj\Debug\Memo Application.pdb
