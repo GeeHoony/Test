@@ -1,0 +1,11 @@
+C:\VB\ServerClient\IPv6Client\bin\Debug\IPv6Client.exe.config
+C:\VB\ServerClient\IPv6Client\bin\Debug\IPv6Client.exe
+C:\VB\ServerClient\IPv6Client\bin\Debug\IPv6Client.pdb
+C:\VB\ServerClient\IPv6Client\bin\Debug\IPv6Client.xml
+C:\VB\ServerClient\IPv6Client\obj\Debug\IPv6Client.vbprojAssemblyReference.cache
+C:\VB\ServerClient\IPv6Client\obj\Debug\IPv6Client.Resources.resources
+C:\VB\ServerClient\IPv6Client\obj\Debug\IPv6Client.vbproj.GenerateResource.cache
+C:\VB\ServerClient\IPv6Client\obj\Debug\IPv6Client.vbproj.CoreCompileInputs.cache
+C:\VB\ServerClient\IPv6Client\obj\Debug\IPv6Client.exe
+C:\VB\ServerClient\IPv6Client\obj\Debug\IPv6Client.xml
+C:\VB\ServerClient\IPv6Client\obj\Debug\IPv6Client.pdb

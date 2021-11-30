@@ -1,0 +1,11 @@
+C:\VB\ServerClient\ServerClient\bin\Debug\ServerClient.exe.config
+C:\VB\ServerClient\ServerClient\bin\Debug\ServerClient.exe
+C:\VB\ServerClient\ServerClient\bin\Debug\ServerClient.pdb
+C:\VB\ServerClient\ServerClient\bin\Debug\ServerClient.xml
+C:\VB\ServerClient\ServerClient\obj\Debug\ServerClient.vbprojAssemblyReference.cache
+C:\VB\ServerClient\ServerClient\obj\Debug\ServerClient.Resources.resources
+C:\VB\ServerClient\ServerClient\obj\Debug\ServerClient.vbproj.GenerateResource.cache
+C:\VB\ServerClient\ServerClient\obj\Debug\ServerClient.vbproj.CoreCompileInputs.cache
+C:\VB\ServerClient\ServerClient\obj\Debug\ServerClient.exe
+C:\VB\ServerClient\ServerClient\obj\Debug\ServerClient.xml
+C:\VB\ServerClient\ServerClient\obj\Debug\ServerClient.pdb
