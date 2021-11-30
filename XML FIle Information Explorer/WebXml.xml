@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="EUC-KR" ?>
+<xml_reply version="1.0">
+<human>
+    <human_entry>
+        <title name="신지훈" />
+    </human_entry>
+    <human_entry>
+        <title name="지훈신" />
+    </human_entry>
+    <human_entry>
+        <title name="훈지신" />
+    </human_entry>
+    <human_entry>
+        <title name="신훈지" />
+    </human_entry>
+    <human_entry>
+        <title name="훈신지" />
+    </human_entry>
+</human>
+</xml_reply>

@@ -1,0 +1,12 @@
+C:\VB\XML FIle Information Explorer\XML FIle Information Explorer\bin\Debug\XML FIle Information Explorer.exe.config
+C:\VB\XML FIle Information Explorer\XML FIle Information Explorer\bin\Debug\XML FIle Information Explorer.exe
+C:\VB\XML FIle Information Explorer\XML FIle Information Explorer\bin\Debug\XML FIle Information Explorer.pdb
+C:\VB\XML FIle Information Explorer\XML FIle Information Explorer\bin\Debug\XML FIle Information Explorer.xml
+C:\VB\XML FIle Information Explorer\XML FIle Information Explorer\obj\Debug\XML FIle Information Explorer.vbprojAssemblyReference.cache
+C:\VB\XML FIle Information Explorer\XML FIle Information Explorer\obj\Debug\XML_FIle_Information_Explorer.Form1.resources
+C:\VB\XML FIle Information Explorer\XML FIle Information Explorer\obj\Debug\XML_FIle_Information_Explorer.Resources.resources
+C:\VB\XML FIle Information Explorer\XML FIle Information Explorer\obj\Debug\XML FIle Information Explorer.vbproj.GenerateResource.cache
+C:\VB\XML FIle Information Explorer\XML FIle Information Explorer\obj\Debug\XML FIle Information Explorer.vbproj.CoreCompileInputs.cache
+C:\VB\XML FIle Information Explorer\XML FIle Information Explorer\obj\Debug\XML FIle Information Explorer.exe
+C:\VB\XML FIle Information Explorer\XML FIle Information Explorer\obj\Debug\XML FIle Information Explorer.xml
+C:\VB\XML FIle Information Explorer\XML FIle Information Explorer\obj\Debug\XML FIle Information Explorer.pdb
