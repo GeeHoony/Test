@@ -1,0 +1,13 @@
+C:\VB\Text Edit Program\Text Edit Program\obj\Debug\Text Edit Program.vbprojAssemblyReference.cache
+C:\VB\Text Edit Program\Text Edit Program\obj\Debug\Text_Edit_Program.Form1.resources
+C:\VB\Text Edit Program\Text Edit Program\obj\Debug\Text_Edit_Program.Resources.resources
+C:\VB\Text Edit Program\Text Edit Program\obj\Debug\Text Edit Program.vbproj.GenerateResource.cache
+C:\VB\Text Edit Program\Text Edit Program\obj\Debug\Text Edit Program.vbproj.CoreCompileInputs.cache
+C:\VB\Text Edit Program\Text Edit Program\obj\Debug\Text_Edit_Program.Form2.resources
+C:\VB\Text Edit Program\Text Edit Program\bin\Debug\Text Edit Program.exe.config
+C:\VB\Text Edit Program\Text Edit Program\bin\Debug\Text Edit Program.exe
+C:\VB\Text Edit Program\Text Edit Program\bin\Debug\Text Edit Program.pdb
+C:\VB\Text Edit Program\Text Edit Program\bin\Debug\Text Edit Program.xml
+C:\VB\Text Edit Program\Text Edit Program\obj\Debug\Text Edit Program.exe
+C:\VB\Text Edit Program\Text Edit Program\obj\Debug\Text Edit Program.xml
+C:\VB\Text Edit Program\Text Edit Program\obj\Debug\Text Edit Program.pdb
