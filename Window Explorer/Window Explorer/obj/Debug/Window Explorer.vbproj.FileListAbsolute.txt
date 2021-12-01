@@ -2,7 +2,6 @@ C:\Users\신지훈\source\repos\Window Explorer\Window Explorer\bin\Debug\Window
 C:\Users\신지훈\source\repos\Window Explorer\Window Explorer\bin\Debug\Window Explorer.exe
 C:\Users\신지훈\source\repos\Window Explorer\Window Explorer\bin\Debug\Window Explorer.pdb
 C:\Users\신지훈\source\repos\Window Explorer\Window Explorer\bin\Debug\Window Explorer.xml
-C:\Users\신지훈\source\repos\Window Explorer\Window Explorer\obj\Debug\Window Explorer.vbprojAssemblyReference.cache
 C:\Users\신지훈\source\repos\Window Explorer\Window Explorer\obj\Debug\Window_Explorer.Form1.resources
 C:\Users\신지훈\source\repos\Window Explorer\Window Explorer\obj\Debug\Window_Explorer.Resources.resources
 C:\Users\신지훈\source\repos\Window Explorer\Window Explorer\obj\Debug\Window Explorer.vbproj.GenerateResource.cache

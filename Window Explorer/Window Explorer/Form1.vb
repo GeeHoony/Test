@@ -9,10 +9,11 @@ Public Class Form1
         TreeView()
     End Sub
 
-    Private Sub TreeView()
+    Private Sub TreeView() 'Management Base Object, Management Object Searcher 클래스 이용하여
+                           '단말기의 디스크 장치를 검색하여 treeDisk 컨트롤에 나타나게 하는 메서드
         Dim RootNode, SubNode As TreeNode
-        Dim ImageIndex = 5
-        Dim selectIndex = 5
+        Dim ImageIndex As Integer = 5
+        Dim selectIndex As Integer = 5
 
         'const Unknown = 0
         'const NoRootDirectory = 1
@@ -58,7 +59,7 @@ Public Class Form1
     Private Sub View(ByVal dr As String)
         Me.Text = path
         Me.lvFile.Items.Clear()
-        Dim imageNum = 15
+        Dim imageNum As Integer = 15
         Try
             If (Directory.Exists(dr) = False) Then
                 MessageBox.Show(dr + " 드라이브는 읽을 수 없습니다.", "디스크 삽입", MessageBoxButtons.OK, MessageBoxIcon.Warning)
@@ -66,7 +67,7 @@ Public Class Form1
                 Dim di = New DirectoryInfo(dr)
 
                 For Each d In di.GetDirectories()
-                    Dim lvItem = New ListViewItem(New String() {d.Name, "", "폴더", d.LastWriteTime.ToShortDateString()}, 16)
+                    Dim lvItem = New ListViewItem(New String() {d.Name, "", "폴더", d.LastWriteTime.ToShortDateString()}, 16) 'ListViewItem(String(),ImageIndex) 16번 폴더아이콘
                     Me.lvFile.Items.Add(lvItem)
                 Next
 
@@ -136,6 +137,19 @@ Public Class Form1
             End If
         Else
             MessageBox.Show("디렉토리를 선택해 주세요.", "디렉토리 선택", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+        End If
+    End Sub
+
+    Private Sub lvFile_KeyPress(sender As Object, e As KeyPressEventArgs) Handles lvFile.KeyPress
+        If (e.KeyChar = Chr(8)) Then
+            'String을 이용
+            Dim p() As String = Strings.Split(path, "\")
+            Dim newPath As String = ""
+
+            For Each s In p
+                ' newPath = newPath + 
+            Next
+
         End If
     End Sub
 End Class

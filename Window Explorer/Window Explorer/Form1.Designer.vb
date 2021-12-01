@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Form1
     Inherits System.Windows.Forms.Form
 
     'Form은 Dispose를 재정의하여 구성 요소 목록을 정리합니다.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class Form1
     '참고: 다음 프로시저는 Windows Form 디자이너에 필요합니다.
     '수정하려면 Windows Form 디자이너를 사용하십시오.  
     '코드 편집기에서는 수정하지 마세요.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
@@ -33,6 +33,7 @@ Partial Class Form1
         Me.ColumnHeader4 = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.treeDisk = New System.Windows.Forms.TreeView()
         Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.Panel1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -51,23 +52,23 @@ Partial Class Form1
         '
         Me.FileList.ImageStream = CType(resources.GetObject("FileList.ImageStream"), System.Windows.Forms.ImageListStreamer)
         Me.FileList.TransparentColor = System.Drawing.Color.Transparent
-        Me.FileList.Images.SetKeyName(0, "bmp.bmp")
+        Me.FileList.Images.SetKeyName(0, "exe.bmp")
         Me.FileList.Images.SetKeyName(1, "com.bmp")
-        Me.FileList.Images.SetKeyName(2, "doc.bmp")
-        Me.FileList.Images.SetKeyName(3, "etc.bmp")
-        Me.FileList.Images.SetKeyName(4, "exe.bmp")
-        Me.FileList.Images.SetKeyName(5, "Folder.bmp")
-        Me.FileList.Images.SetKeyName(6, "gif.bmp")
-        Me.FileList.Images.SetKeyName(7, "htm.bmp")
-        Me.FileList.Images.SetKeyName(8, "html.bmp")
-        Me.FileList.Images.SetKeyName(9, "hwp.bmp")
-        Me.FileList.Images.SetKeyName(10, "jpg.bmp")
-        Me.FileList.Images.SetKeyName(11, "mp3.bmp")
-        Me.FileList.Images.SetKeyName(12, "mpg.bmp")
-        Me.FileList.Images.SetKeyName(13, "ra.bmp")
-        Me.FileList.Images.SetKeyName(14, "rar.bmp")
-        Me.FileList.Images.SetKeyName(15, "txt.bmp")
-        Me.FileList.Images.SetKeyName(16, "zip.bmp")
+        Me.FileList.Images.SetKeyName(2, "txt.bmp")
+        Me.FileList.Images.SetKeyName(3, "bmp.bmp")
+        Me.FileList.Images.SetKeyName(4, "doc.bmp")
+        Me.FileList.Images.SetKeyName(5, "gif.bmp")
+        Me.FileList.Images.SetKeyName(6, "htm.bmp")
+        Me.FileList.Images.SetKeyName(7, "html.bmp")
+        Me.FileList.Images.SetKeyName(8, "hwp.bmp")
+        Me.FileList.Images.SetKeyName(9, "jpg.bmp")
+        Me.FileList.Images.SetKeyName(10, "mp3.bmp")
+        Me.FileList.Images.SetKeyName(11, "mpg.bmp")
+        Me.FileList.Images.SetKeyName(12, "ra.bmp")
+        Me.FileList.Images.SetKeyName(13, "rar.bmp")
+        Me.FileList.Images.SetKeyName(14, "zip.bmp")
+        Me.FileList.Images.SetKeyName(15, "etc.bmp")
+        Me.FileList.Images.SetKeyName(16, "Folder.bmp")
         '
         'lvFile
         '
@@ -120,19 +121,30 @@ Partial Class Form1
         Me.Panel1.Controls.Add(Me.lvFile)
         Me.Panel1.Location = New System.Drawing.Point(0, 0)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(931, 541)
+        Me.Panel1.Size = New System.Drawing.Size(809, 489)
         Me.Panel1.TabIndex = 2
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(175, 517)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(42, 12)
+        Me.Label1.TabIndex = 3
+        Me.Label1.Text = "Label1"
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 12.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(821, 489)
+        Me.ClientSize = New System.Drawing.Size(809, 541)
+        Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Panel1)
         Me.Name = "Form1"
         Me.Text = "윈도우 탐색기"
         Me.Panel1.ResumeLayout(False)
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
 
@@ -145,4 +157,5 @@ Partial Class Form1
     Friend WithEvents ColumnHeader4 As ColumnHeader
     Friend WithEvents treeDisk As TreeView
     Friend WithEvents Panel1 As Panel
+    Friend WithEvents Label1 As Label
 End Class
